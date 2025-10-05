@@ -1,7 +1,7 @@
 # Sales_Analysis_And_Forcasting_PowerBI_Dashboard
 <img width="1297" height="729" alt="dash" src="https://github.com/user-attachments/assets/8f5d3170-934a-41c9-b2af-6cd6e5f6d289" />
 
-##🔹Key Highlights:
+## 🔹Key Highlights:
 
 Total Sales: 701K
 
@@ -13,7 +13,7 @@ Discount Usage: 50.73% of transactions used discounts
 
 Sales Forecasting: Predictive insights into future sales trends
 
-##🧠 Insights Derived
+## 🧠 Insights Derived
 
 Majority of the sales came from Colombian and Costa Rica coffee beans.
 
